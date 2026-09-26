@@ -399,21 +399,28 @@ int main() {
     return 0;
 }
 ```
+
 ---
+
 **Hasil Eksekusi Program 1a:**  
 ![Output Program 1a](img/program1a.png)
 ---
+
 **Hasil Eksekusi Program 1b:**  
 ![Output Program 1b](img/program1b.png)
 ---
+
 **Hasil Eksekusi Program 2:**  
 ![Output Program 2](img/program2.png)
 ---
+
 **Hasil Eksekusi Program 3:**  
 ![Output Program 3](img/program3.png)
 ---
+
 **Hasil Eksekusi Program 4:**  
 ![Output Program 4](img/program4.png)
 ---
+
 **Hasil Eksekusi Program 5:**  
 ![Output Program 5](img/program5.png)
