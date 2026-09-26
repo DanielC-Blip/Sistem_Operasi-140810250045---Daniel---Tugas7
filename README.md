@@ -64,7 +64,7 @@ int main() {
 ```
 
 **Hasil Eksekusi Program 1a:**  
-![Output Program 1a](img/hasil_run_1a.png)
+![Output Program 1a](img/program1a.png)
 
 ### Implementasi Kode 1b: Orphan Process
 ```c
@@ -101,7 +101,7 @@ int main() {
 ```
 
 **Hasil Eksekusi Program 1b:**  
-![Output Program 1b](img/hasil_run_1b.png)
+![Output Program 1a](img/program1b.png)
 
 ---
 
@@ -164,7 +164,7 @@ int main() {
 ```
 
 **Hasil Eksekusi Program 2:**  
-![Output Program 2](img/hasil_run_2.png)
+![Output Program 1a](img/program2.png)
 
 ---
 
@@ -250,7 +250,7 @@ int main() {
 ```
 
 **Hasil Eksekusi Program 3:**  
-![Output Program 3](img/hasil_run_3.png)
+![Output Program 1a](img/program3.png)
 
 ---
 
@@ -320,7 +320,7 @@ int main() {
 ```
 
 **Hasil Eksekusi Program 4:**  
-![Output Program 4](img/hasil_run_4.png)
+![Output Program 1a](img/program4.png)
 
 ---
 
@@ -399,28 +399,5 @@ int main() {
     return 0;
 }
 ```
-
----
-
-**Hasil Eksekusi Program 1a:**  
-![Output Program 1a](img/program1a.png)
----
-
-**Hasil Eksekusi Program 1b:**  
-![Output Program 1b](img/program1b.png)
----
-
-**Hasil Eksekusi Program 2:**  
-![Output Program 2](img/program2.png)
----
-
-**Hasil Eksekusi Program 3:**  
-![Output Program 3](img/program3.png)
----
-
-**Hasil Eksekusi Program 4:**  
-![Output Program 4](img/program4.png)
----
-
 **Hasil Eksekusi Program 5:**  
 ![Output Program 5](img/program5.png)
