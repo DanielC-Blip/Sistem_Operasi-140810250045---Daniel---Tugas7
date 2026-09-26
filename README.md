@@ -401,4 +401,9 @@ int main() {
 ```
 
 **Hasil Eksekusi Program 5:**  
-![Output Program 5](img/hasil_run_5.png)
+![Output Program 1a](img/program1a.png)
+![Output Program 1b](img/program1b.png)
+![Output Program 2](img/program2.png)
+![Output Program 3](img/program3.png)
+![Output Program 4](img/program4.png)
+![Output Program 5](img/program5.png)
